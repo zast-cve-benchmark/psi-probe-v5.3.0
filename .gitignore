@@ -1,0 +1,28 @@
+# Checkstyle
+.checkstyle
+
+# Eclipse
+.settings
+.classpath
+.project
+.factorypath
+
+# Intellij
+.idea
+*.iml
+*.iws
+*.ipr
+
+# Maven
+.mvn/wrapper/maven-wrapper.jar
+*.releaseBackup
+release.properties
+target/
+
+# PMD
+.pmd
+.pmdruleset.xml
+
+# Project
+.github/keys/
+*.log
